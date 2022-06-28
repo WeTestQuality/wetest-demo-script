@@ -1,0 +1,2 @@
+facebook-wda==1.4.6
+packaging~=21.3
